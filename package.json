@@ -1,0 +1,15 @@
+{
+  "name": "hypatia-fitness-app",
+  "version": "1.0.0",
+  "description": "This is a muscle building web application with a focus Hypetrophy driven training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
